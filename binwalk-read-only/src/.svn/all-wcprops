@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/681/trunk/src
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/680/trunk/src/setup.py
+END
+debian_quick_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/627/trunk/src/debian_quick_install.sh
+END

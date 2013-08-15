@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/674/trunk/src/magic
+END
+sql
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/308/trunk/src/magic/sql
+END
+crypto
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/669/trunk/src/magic/crypto
+END
+kernels
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/430/trunk/src/magic/kernels
+END
+lzma
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/621/trunk/src/magic/lzma
+END
+archives
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/674/trunk/src/magic/archives
+END
+compressed
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/639/trunk/src/magic/compressed
+END
+executables
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/668/trunk/src/magic/executables
+END
+images
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/674/trunk/src/magic/images
+END
+filesystems
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/658/trunk/src/magic/filesystems
+END
+firmware
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/674/trunk/src/magic/firmware
+END
+bootloaders
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/598/trunk/src/magic/bootloaders
+END

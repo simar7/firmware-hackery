@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/681/trunk/src/binwalk/magic
+END
+bincast
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/576/trunk/src/binwalk/magic/bincast
+END
+binarch
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/681/trunk/src/binwalk/magic/binarch
+END
+binwalk
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/674/trunk/src/binwalk/magic/binwalk
+END
