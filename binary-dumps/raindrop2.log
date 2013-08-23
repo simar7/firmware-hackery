@@ -1,0 +1,27 @@
+1,"App","30814RaunaqSawhney.raindrop_1.2.0.5_neutral__yfkge3jevxpcj",0
+1,"WinRT","30814RaunaqSawhney.raindrop_1.2.0.5_neutral__yfkge3jevxpcj",1
+1,"fusion","GAC",2
+2,"C:\Program Files\WindowsApps\30814RaunaqSawhney.raindrop_1.2.0.5_neutral__yfkge3jevxpcj\raindrop2.exe",0
+3,"System.Runtime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Runtime\e0279e969e04bbcb5b51f121d81b8df2\System.Runtime.ni.dll",2
+3,"C:\WINDOWS\system32\WinMetadata\Windows.UI.Xaml.winmd","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\Windows.UI.Xaml\f478c8240bd7f09edf889d24351b71c8\Windows.UI.Xaml.ni.dll",1
+3,"System.Runtime.InteropServices.WindowsRuntime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Runtbff93e24#\a6b9be3c35fc90c35d7c1ebf567a8e73\System.Runtime.InteropServices.WindowsRuntime.ni.dll",2
+3,"C:\WINDOWS\system32\WinMetadata\Windows.ApplicationModel.winmd","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\Windows.App640a3541#\abcb0bc2281a956bd6d578ff8ddf5f7c\Windows.ApplicationModel.ni.dll",1
+3,"System.Runtime.WindowsRuntime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Runt0d283adf#\af1d294c0d63d482bf5643ecb397d4d5\System.Runtime.WindowsRuntime.ni.dll",2
+3,"System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System\09ba728ea9530c53be747200e8b21edb\System.ni.dll",2
+3,"System.Threading.Tasks, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Thre7bb2aad0#\557cdf52094d2d96f9163729d7f83195\System.Threading.Tasks.ni.dll",2
+3,"C:\WINDOWS\system32\WinMetadata\Windows.UI.winmd","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\Windows.UI\d737b6f4273e231341207f27b43e46ba\Windows.UI.ni.dll",1
+3,"System.Collections, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Collections\d97410a2631d5c4a803d0690a81864e5\System.Collections.ni.dll",2
+3,"C:\WINDOWS\system32\WinMetadata\Windows.Foundation.winmd","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\Windows.Foundation\e0b0c52c56bf76dbf123e34be72f47e4\Windows.Foundation.ni.dll",1
+3,"C:\WINDOWS\system32\WinMetadata\Windows.Storage.winmd","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\Windows.Storage\0145de739430e7683514eb55b622d803\Windows.Storage.ni.dll",1
+2,"C:\Program Files\WindowsApps\30814RaunaqSawhney.raindrop_1.2.0.5_neutral__yfkge3jevxpcj\Callisto.DLL",0
+2,"C:\Program Files\WindowsApps\30814RaunaqSawhney.raindrop_1.2.0.5_neutral__yfkge3jevxpcj\StoreAppLib.DLL",0
+3,"System.ObjectModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.ObjectModel\bc2795b9acd5c906a793918f17c53ca5\System.ObjectModel.ni.dll",2
+3,"System.Runtime.WindowsRuntime.UI.Xaml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Runtc259d85b#\606d12c601c1ec2f60bd096e9062f444\System.Runtime.WindowsRuntime.UI.Xaml.ni.dll",2
+3,"System.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Linq\f275a44135e2bcbdba55183383c9e05b\System.Linq.ni.dll",2
+3,"System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Core\745a05dc486198a3dd63ce951fa254b8\System.Core.ni.dll",2
+3,"C:\WINDOWS\system32\WinMetadata\Windows.Networking.winmd","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\Windows.Networking\021b42e4cae179d0e63271ba3d6161f2\Windows.Networking.ni.dll",1
+3,"C:\WINDOWS\system32\WinMetadata\Windows.Devices.winmd","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\Windows.Devices\fecdb0af8656a3904784eb658e05c9f1\Windows.Devices.ni.dll",1
+3,"System.Xml.XDocument, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Xml.XDocument\b8a0f4058d8c63bd5cbabc65c44bf212\System.Xml.XDocument.ni.dll",2
+3,"System.Xml.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Xml.Linq\8c7cd8544078f14678ff8db56887f8d6\System.Xml.Linq.ni.dll",2
+3,"System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Xml\d13b122f586e799ed513c32c196045f5\System.Xml.ni.dll",2
+3,"System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Configuration\9f15ec91a22fee7e61f2084c189d0306\System.Configuration.ni.dll",2
